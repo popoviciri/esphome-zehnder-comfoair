@@ -50,7 +50,7 @@ ota:
 #  ap:
 #    password: !secret wifi_hotspot_password
 
-captive_portal:
+#captive_portal:
 improv_serial:
 
 web_server:
