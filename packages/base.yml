@@ -51,7 +51,7 @@ ota:
 #    password: !secret wifi_hotspot_password
 
 #captive_portal:
-improv_serial:
+#improv_serial:
 
 web_server:
   port: 80
